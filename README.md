@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on javascript<br>i am currently learning react<br>i want help in frontend development
+Hello! I'm currently immersed in the world of JavaScript, constantly honing my skills to become a proficient developer. My focus is primarily on frontend development, and I'm particularly enthusiastic about learning and utilizing the power of React. If you have any insights, tips, or guidance to offer in the realm of frontend development, I would greatly appreciate your assistance. Together, let's create amazing user experiences and build captivating interfaces!
 
 
 ## 🌐 Socials:
